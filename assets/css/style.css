@@ -1,0 +1,171 @@
+
+body{
+    font-family: Poppins;
+}
+p{
+    color: #6C6B6B;
+    font: 16px;
+    line-height: 24px;
+    font-style: normal;
+}
+
+.logo_img{
+    width: 200px;
+    height: auto;
+}
+
+.green_btn{
+    background-color: #21B573;
+    text-decoration: none;
+    padding: 10px 25px!important;
+    color: #fff!important;
+    border-radius: 50px;
+    display: inline-block;
+}
+
+.mleft{
+    margin-left: auto;
+}
+
+.header, .bg-color{
+    background-color: #F0FFF0;
+}
+
+.bg-color{
+    padding:100px 0;
+}
+.bg-color .bg_content_area h5 {
+    font-family: Poppins;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+
+.bg-color .bg_content_area h1{
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 70px;
+    color: #000;
+}
+
+.bg-color .bg_content_area h1 span{
+    color: #21B573;
+}
+
+.cat_img {
+    width: 66px;
+    height: auto;
+}
+
+.cat_img_box {
+    text-align: center;
+}
+.category .card .card-body {
+    padding-top: 54px;
+    padding-bottom: 49px;
+}
+
+.category .card {
+    text-align: center;
+    border: none;
+    margin-bottom: 20px;
+}
+.category .card:hover{
+    box-shadow: 0 0 25px darkgray;
+}
+
+.category .card-title {
+    margin-top: 22px;
+}
+
+section{
+    margin-bottom: 100px;
+}
+
+.online h1, .testimonial h1 {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.online .card-title {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #413960;
+    margin-top: 20px;
+}
+.online .green_btn {
+    padding: 8px 25px !important;
+}
+
+.online .card-footer {
+    background-color: #fff;
+    border: none;
+}
+
+.online .card-footer img {
+    width: 24px;
+    height: auto;
+}
+
+.testimonial img{
+    width: 120px;
+    height: 120px;
+}
+
+.testimonial p {
+    margin-bottom: 0;
+}
+.online .card {
+    border: none;
+}
+
+footer{
+    color: #fff;
+    background-color: #282531;
+}
+footer p{
+    color: #fff;
+}
+
+.footer_up {
+    padding-top: 50px;
+}
+
+.footer_menu_title {
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+.footer_up ul{
+    padding-left: 0;
+}
+
+.footer_up ul li{
+    list-style: none;
+}
+
+.footer_up ul li a{
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 30px;
+    color: #fff;
+    text-decoration: none;
+
+}
+
+.footer_down {
+    text-align: center;
+    padding: 20px 0;
+}
+.footer_down p{
+    margin-bottom: 0;
+}
